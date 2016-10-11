@@ -1,4 +1,4 @@
 ﻿  Source.cpp
-c:\users\school\documents\visual studio 2015\projects\assignment3-file_structure\assignment3-file_structure\source.cpp(167): warning C4715: 'lookup': not all control paths return a value
-  Assignment3-File_Structure.vcxproj -> C:\Users\School\documents\visual studio 2015\Projects\Assignment3-File_Structure\Debug\Assignment3-File_Structure.exe
-  Assignment3-File_Structure.vcxproj -> C:\Users\School\documents\visual studio 2015\Projects\Assignment3-File_Structure\Debug\Assignment3-File_Structure.pdb (Full PDB)
+c:\users\totoro\documents\visual studio 2015\projects\assignment3-file_structure\assignment3-file_structure\source.cpp(396): warning C4018: '<': signed/unsigned mismatch
+  Assignment3-File_Structure.vcxproj -> C:\Users\Totoro\Documents\Visual Studio 2015\Projects\Assignment3-File_Structure\Debug\Assignment3-File_Structure.exe
+  Assignment3-File_Structure.vcxproj -> C:\Users\Totoro\Documents\Visual Studio 2015\Projects\Assignment3-File_Structure\Debug\Assignment3-File_Structure.pdb (Full PDB)

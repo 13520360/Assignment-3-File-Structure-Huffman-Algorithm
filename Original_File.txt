@@ -1,2 +1,1 @@
-aaaabbccccde
-ababacaccdce
+aabccde
